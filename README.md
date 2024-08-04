@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=Venom&color=gradient&height=400&section=header&text=HSS-4rd-Algorythm-Study&animation=twinkling&fontColor=ffffff&fontSize=45" />
 
 안녕하세요! 머리 벅벅 긁는 스터디가 드디어 4회를 맞이 하였습니다. 
-세번째는 모던 자바스크립트 Deep Dive로 함께 하게 되었습니다. 
+네번째는 모던 자바스크립트 Deep Dive로 함께 하게 되었습니다. 
 
 시작일 : 2024년 08월 04일 🎅🫎🎄AM 10:00 KST 
 
